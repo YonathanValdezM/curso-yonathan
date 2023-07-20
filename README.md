@@ -1,2 +1,1 @@
-# curso-yonathan
-este es un repositorio mod2 de yonathan
+este proyecto es una prueba de como crear un repositorio y clonarlo desde githab a mi escritorio local
